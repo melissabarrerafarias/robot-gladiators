@@ -90,7 +90,7 @@ playerMoney = 10;
       window.alert("You have lost your robot in battle! Game Over!");
       break;
     }
-  }
+  } 
   endGame();
 };
 
